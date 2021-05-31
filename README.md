@@ -1,4 +1,4 @@
-# QRcode-scanner
+# <b>QRcode-scanner</b>
 First , There are 2 main modules you need to install
 
 To do that , Go to cmd and type\
